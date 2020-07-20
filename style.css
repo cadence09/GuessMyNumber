@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image:url("https://images.squarespace-cdn.com/content/v1/5465bb21e4b00c5eabbd84e3/1572812843869-4FG9RQ4V5M6232Y9493I/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0pE4cef1KNtWo36k-CFnr6wOF2g5O-PFkVuvW_ba6dQUZZpzEt6WQHHQe4EHY-NJIA/Activity+Icon+%28Guess+My+Number%29.png?format=2500w");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.background{
+    margin-top:10%;
+}
+h2{
+    width:50%;
+    position:relative;
+    margin-left:30%;
+    margin-right:30%;
+}
+
