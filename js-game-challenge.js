@@ -9,7 +9,6 @@ let userMax=document.querySelector(".max");
 
 
 const userSubmit1=document.querySelector(".submit1");
-// let answer=Math.floor(Math.random()*100)+1;
 let count=1;
 let tries=1;
 let userMaxValue;
@@ -19,8 +18,6 @@ function numberRange(){
      answer=Math.floor(Math.random()*userMaxValue+1);
      return answer;
 }
-
-// // userSubmit1.addEventListener("click", ());
 
 
 function checkMyGuess(){
